@@ -10,7 +10,7 @@ This folder contains an implementation of several data structures:
 - Binary Search Tree
 - Trie
 
-Moreover, it contains a short expected value analysis from playing a lottery called [Keno](https://www.lotto.pl/keno).
+Moreover, it contains a short expected value analysis of a lottery called [Keno](https://www.lotto.pl/keno).
 
 Conclusions:
 1. The player statistically losses the least amount of money when choosing 5 numbers. The loss amounts to 0.42 PLN for every 1 PLN invested into the game.
