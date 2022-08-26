@@ -21,7 +21,7 @@ Conclusions:
 This folder contains selected solutions to the exercises from the book [An Introduction to Statistical Learning](https://www.statlearning.com/). The solutions come from chapters on Linear Regression, Classification and Resampling Methods.
 
 ## Titanic (R)
-This folder contains Multinomial Logistic Regression, Linear Discriminant Analysis and Naive Bayes models implementation in R aimed to predict the survivorship status of selected Titanic passengers. Out of 13 models tested, only the best performing 3 are shown. The dataset was downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/data).
+This folder contains Multinomial Logistic Regression, Linear Discriminant Analysis and Naive Bayes models implementation in R aimed to predict the survivorship status of selected Titanic passengers. Out of 13 models tested, only the best performing 3 are included. The dataset was downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/data).
 
 Missing values for the "Age" independent variable were predicted by fitting a Multiple Linear Regression model.
 
