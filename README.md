@@ -1,5 +1,4 @@
-# Practice
-This repository contains selected programming exercises.
+The repository contains selected programming exercises from Python and R.
 
 ## Python
 This folder contains an implementation of several data structures:
